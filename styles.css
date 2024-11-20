@@ -6,7 +6,6 @@ body {
     color: #FC4EA8;
     text-align: center;
     }
-
     .projects { 
         display:flex;
         flex-wrap:wrap; } 
